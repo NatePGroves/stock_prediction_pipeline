@@ -1,1 +1,1 @@
-# stock_prediction_pipeline
+# Panel Time-Series Stock Prediction, Risk Analysis, and Portfolio Evaluation Using Classical Machine Learning and Deep Learning
